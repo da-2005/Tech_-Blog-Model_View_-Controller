@@ -1,6 +1,6 @@
 # MVC Tech Blog
 
-#IMPORTANT
+# IMPORTANT
 Try these login credentials to test the fucntionallity of the application:
 * Email: a@2.com   
 * Password: password1234
